@@ -8,7 +8,7 @@ Today, I have the joy of sharing the answer of someone who has had a great influ
 
 <!--more-->
 
-We met at the November 2016 edition of the [Fhacktory]("http://www.fhacktory.com/") hackathon in Lyon, where the picture below was taken (you can see my back – I'm on the table on the left, in the middle between two teammates while the third one was taking a 3AM nap):
+We met at the November 2016 edition of the [Fhacktory](http://www.fhacktory.com/) hackathon in Lyon, where the picture below was taken (you can see my back – I'm on the table on the left, in the middle between two teammates while the third one was taking a 3AM nap):
 
 ![fhacktory hackathon panorama](http://www.samuelpath.com/wp-content/uploads/2017/05/fhacktory-hackathon-panorama-e1494183444590.jpg)
 
