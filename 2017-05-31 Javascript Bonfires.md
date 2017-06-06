@@ -24,6 +24,21 @@ The intermediate section asks for more algorithmic reflection, and starts to req
 
 The advanced level section contains only 9 exercises, but you'll need to up your game in order to solve them. For instance you'll need to create complex regular expressions in order to [validate US telephone numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers), calculate the [exact change to be be returned to a customer at a cash register](https://www.freecodecamp.com/challenges/exact-change) or [compute the symmetric difference between any number of arrays](https://www.freecodecamp.com/challenges/symmetric-difference).
 
+# Why should you tackle them?
+
+Frankly, tackling these challenges provided me with tons of fun *and* frustration.
+
+## Fun
+
+At times, I worked for hours on end without seeing time pass, as I moved on from simple challenges to increasingly complex ones. I was in what psychologists call a state of flow. The [wikipedia](https://en.wikipedia.org/wiki/Flow_(psychology)) definition of it aptly describes my experience:
+
+> The mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. In essence, flow is characterized by complete absorption in what one does and loses sense of space and time.
+
+Flow is fun and flow brings happiness. So first of all, tackling these challenges can make you happy :).
+
+## Frustration
+
+
 
 
 
