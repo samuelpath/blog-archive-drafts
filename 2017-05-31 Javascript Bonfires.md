@@ -10,7 +10,7 @@ The next main section in the [FCC's Front End Development Certification](https:/
 
 According to FCC's maintainers, someone starting to learn JavaScript with FCC should take 50 hours to solve each level, which means that this requires 150 hours (about a month of full-time work). But of course, for someone already familiar with other languages or with JS itself (which was my case), this can go much faster.
 
-#What are these challenges about?
+# What are these challenges about?
 
 Each challenge is layed out in the same way. See below a screenshot of the first challenge (here's a [link](https://www.freecodecamp.com/challenges/reverse-a-string) to the challenge itself):
 
@@ -22,7 +22,7 @@ The basic level section starts very lightly with challenges such as how to [reve
 
 The intermediate section asks for more algorithmic reflection, and starts to require at least some basic mathematical reasoning. For instance you're asked to [sum all odd fibonacci numbers](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers), get the [sorted union of numbers in an unspecified number of arrays](https://www.freecodecamp.com/challenges/sorted-union), or translate strings to [pig latin](https://www.freecodecamp.com/challenges/pig-latin). Here memories of your high school math classes will come in handy.
 
-The advanced level section contains only 9 exercises, but you'll need to up your game in order to solve them. For instance you'll need to create complex regular expressions in order to [validate US telephone numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers), calculate the [exact change to be be returned to a customer at a cash register] (https://www.freecodecamp.com/challenges/exact-change) or [compute the symmetric difference between any number of arrays](https://www.freecodecamp.com/challenges/symmetric-difference).
+The advanced level section contains only 9 exercises, but you'll need to up your game in order to solve them. For instance you'll need to create complex regular expressions in order to [validate US telephone numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers), calculate the [exact change to be be returned to a customer at a cash register](https://www.freecodecamp.com/challenges/exact-change) or [compute the symmetric difference between any number of arrays](https://www.freecodecamp.com/challenges/symmetric-difference).
 
 
 
