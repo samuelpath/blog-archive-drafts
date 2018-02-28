@@ -1,4 +1,4 @@
-Since starting this blog in December 2016, I've had the priviledge of interviewing a few software developers I respect, with one simple question: _What is Clean Code for you?_
+Since starting this blog, I've had the priviledge of interviewing a few software developers I respect, with one simple question: _What is Clean Code for you?_
 
 Since I've put the series on hold for a few months, here are a refresher of the articles so far:
 
@@ -14,7 +14,7 @@ So I was delighted to see him provide an answer, in only one sentence. But befor
 
 > Cory is an independent consultant with over 15 years of experience in software development. He is the principal consultant at [reactjsconsulting.com](http://reactjsconsulting.com/) and a [Microsoft MVP](https://mvp.microsoft.com/). As a software architect at Cox Automotive, Cory creates web applications for the automotive industry using C#, .NET, Node, and JavaScript. Cory has trained over 10,000 software developers at conferences and businesses worldwide on clean coding practices, front-end development, testing, and software architecture. He speaks regularly at conferences like NDC, Fluent, and Codemash. Cory lives in Kansas City where he blogs at [bitnative.com](https://www.bitnative.com/) and is active on Twitter as [@housecor](https://twitter.com/housecor).
 
-As for my relationship with Cory, I've been following him for a year and a half on [Twitter](https://twitter.com/housecor) and [Medium](https://medium.com/@housecor) and have been regularly encouraged to grow both as a developer and a human being as a result. I've also listened to a few interviews from him on [various podcasts](https://www.google.com/search?q=podcast+cory+house) and followed one of his courses on [Becoming an Outlier](https://www.pluralsight.com/courses/career-reboot-for-developer-mind).
+As for my relationship with Cory, I've been following him for almost two years on [Twitter](https://twitter.com/housecor) and [Medium](https://medium.com/@housecor) and have been regularly encouraged to grow both as a developer and a human being as a result. I've also listened to a few interviews from him on [various podcasts](https://www.google.com/search?q=podcast+cory+house) and followed one of his courses on [Becoming an Outlier](https://www.pluralsight.com/courses/career-reboot-for-developer-mind).
 
 If you haven't heard from him yet, I'd encourage you to take a few minutes to check some of his resources available online and follow him on Twitter. This won't be wasted time.
 
@@ -40,7 +40,7 @@ When trying to understand code I didn't write, the most common and frustrating q
 
 Clean code doesn't leave you wondering. It uses the chosen language's idioms and best practices to translate intent into code.
 
-All the variables and functions are carefully named to reflect what they're referring to. Good naming is key. Just the right combination of words with the right nuance so that the meaning becomes unmistakable. It simply cannot mean something else in its context, no ambiguity can be tolerated.
+All the variables and functions are carefully named to reflect what they're referring to. Good naming is key. Just the right combination of words with the right nuance so that the meaning becomes unmistakable. It simply cannot mean something else in its context. No ambiguity can be tolerated.
 
 The cleaner the code, the less questions a reader needs to ask himself to understand it. You feel like you are in the author's mind.
 
@@ -50,6 +50,15 @@ It's almost impossible to be a clean coder and yet not be able to communicate cl
 
 # …in bite-sized pieces that can be reasoned about in isolation
 
-Another key ingredient to clean code. 
+Another key ingredient to clean code.
 
-// talk about impossibly long functions with many for loops and intricated if statements…
+I still remember vividly the time I had to dive into a huge codebase where some files had more than 10,000 lines and where some functions were hundreds of lines long.
+
+To understand the logic, I had to start at the top, put my headphones on, and struggle through a jungle of cascading _for_ loops and _if_ statements.
+
+In his book Clean Code, Bob Martin says the following:
+
+> The first rule of functions is that they should be small. The second rule of functions is that they should be smaller than that. Functions should not be 100 lines long. Functions should hardly ever be 20 lines long.
+
+When you look at some of the most successful open source projects on Github, you'll be hard pressed to find functions longer than 20 lines. Here's an [example](https://github.com/Microsoft/vscode/blob/master/src/main.js) from the source code of [Visual Studio Code](https://code.visualstudio.com/), the editor I'm using to write this article. Even if you are not familiar with this codebase, you can quickly make sense of the logic since the functions are clearly named and short.
+
