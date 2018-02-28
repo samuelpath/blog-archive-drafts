@@ -1,3 +1,5 @@
+![cory house](http://www.samuelpath.com/wp-content/uploads/2018/02/coryHouse.jpg)
+
 Since starting this blog, I've had the priviledge of interviewing a few software developers I respect, with one simple question: _What is Clean Code for you?_
 
 Since I've put the series on hold for a few months, here are a refresher of the articles so far:
@@ -30,6 +32,8 @@ So let me walk you through the answer.
 
 Actually, I wonder why we're using the adjective "Clean" when talking about code. To me, "Clean Code" is all about _clarity_. We could rename the movement and call it "Clear Code" instead of "Clean Code".
 
+![clarity](http://www.samuelpath.com/wp-content/uploads/2018/02/clarity.png)
+
 When I need to dive in a new codebase, the best gift the original writers could have left me is clarity. It's again the same as with writing prose.
 
 # It expresses the programmer's intent…
@@ -37,6 +41,8 @@ When I need to dive in a new codebase, the best gift the original writers could 
 And what is clarity but simply transparence about the author's intent?
 
 When trying to understand code I didn't write, the most common and frustrating questions that come to me are: _But why? Why did you write this that way? What did you mean? What were you thinking?_
+
+![jackie chan with confused face](http://www.samuelpath.com/wp-content/uploads/2018/02/jackie.jpg)
 
 Clean code doesn't leave you wondering. It uses the chosen language's idioms and best practices to translate intent into code.
 
@@ -52,6 +58,8 @@ It's almost impossible to be a clean coder and yet not be able to communicate cl
 
 Another key ingredient to clean code.
 
+![tiny bite-sized burgers](http://www.samuelpath.com/wp-content/uploads/2018/02/burgers.jpg)
+
 I still remember vividly the time I had to dive into a huge codebase where some files had more than 10,000 lines and where some functions were hundreds of lines long.
 
 To understand the logic, I had to start at the top, put my headphones on, and struggle through a jungle of cascading _for_ loops and _if_ statements.
@@ -62,3 +70,4 @@ In his book Clean Code, Bob Martin says the following:
 
 When you look at some of the most successful open source projects on Github, you'll be hard pressed to find functions longer than 20 lines. Here's an [example](https://github.com/Microsoft/vscode/blob/master/src/main.js) from the source code of [Visual Studio Code](https://code.visualstudio.com/), the editor I'm using to write this article. Even if you are not familiar with this codebase, you can quickly make sense of the logic since the functions are clearly named and short.
 
+> **@Cory**: Thank you so much for having granted my request. It's an honour for me to publish your answer. Thank you also for sharing the wisdom you've gained through the years with thousands of "hungry" developers like me. I hope my commentaries mainly represented what you had in mind. If not, please do not hesitate to correct or clarify.
