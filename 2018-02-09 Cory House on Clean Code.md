@@ -78,6 +78,8 @@ I shared this post before publication with my friend Ben from Mozilla (who also 
 
 For me who spend a lot of time building DIY stuff in my new home these days, it makes me think of the fact that I can buy the best wood pieces in the world and yet assemble them in a way that is not clean. Having perfect elements in isolation is necessary but not sufficient. It takes a lot of skill and hard work to put them together in a beautiful way.
 
+[ikea house building instruction meme](http://www.samuelpath.com/wp-content/uploads/2018/03/hous.jpg)
+
 But that's a minor caveat, and I'm sure that Cory would agree with it.
 
 # Anyway, thanks Cory!
