@@ -70,18 +70,4 @@ In his book Clean Code, Bob Martin says the following:
 
 When you look at some of the most successful open source projects on Github, you'll be hard pressed to find functions longer than 20 lines. Here's an [example](https://github.com/Microsoft/vscode/blob/master/src/main.js) from the source code of [Visual Studio Code](https://code.visualstudio.com/), the editor I'm using to write this article. Even if you are not familiar with this codebase, you can quickly make sense of the logic since the functions are clearly named and short.
 
-# One thing maybe missing?
-
-I shared this post before publication with my friend Ben from Mozilla (who also participated to this series [here](http://www.samuelpath.com/ben/)), and I found his feedback very interesting, so I'd like to share it below (my translation from French):
-
-> Nice. I like Cory's answer. It reminds me of a banner we had at one point in the SpiderMonkey IRC channel saying: "Nothing is hard to implement in isolation" (it was the Garbage Collector's maintainer who liked to say this, so that's saying something). And funny enough, I feel like the communication aspect is missing in his answer: how various parts of the codebase communicate between each other. Indeed, even if they are all very well defined in isolation, they might still struggle to efficiently communicate and collaborate together. So this makes me say that clean code is not only good code in isolation (as Cory says), but it also needs to have contracts and APIs which are simple and clear as well.
-
-For me who spend a lot of time building DIY stuff in my new home these days, it makes me think of the fact that I can buy the best wood pieces in the world and yet assemble them in a way that is not clean. Having perfect elements in isolation is necessary but not sufficient. It takes a lot of skill and hard work to put them together in a beautiful way.
-
-![ikea house building instruction meme](http://www.samuelpath.com/wp-content/uploads/2018/03/hous.jpg)
-
-But that's a minor caveat, and I'm sure that Cory would agree with it.
-
-# Anyway, thanks Cory!
-
 > **@Cory**: Thank you so much for having granted my request. It's an honour for me to publish your answer. Thank you also for sharing the wisdom you've gained through the years with thousands of "hungry" developers like me. I hope my commentaries mainly represented what you had in mind. If not, please do not hesitate to correct or clarify.
